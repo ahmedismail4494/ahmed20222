@@ -120,6 +120,7 @@ export const Label = styled.label`
 `
 
 export const Input = styled.input`
+  max-width: 100%;
   padding: 10px 5px;
   margin-bottom: 20px;
   border-radius: 10px;
@@ -134,6 +135,7 @@ export const InputSubmit = styled(Input)`
 `
 
 export const Textarea = styled.textarea`
+  max-width: 100%;
   padding: 10px 5px;
   margin-bottom: 40px;
   border-radius: 10px;
