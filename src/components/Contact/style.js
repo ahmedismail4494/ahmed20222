@@ -106,6 +106,7 @@ export const Form = styled.form`
   display: flex;
   justify-content: center;
   flex-direction: column;
+
   /* Small */
   @media (max-width: 767px) { max-width: 85%; margin: 0 auto }
   /* Medium */
@@ -124,6 +125,10 @@ export const Input = styled.input`
   padding: 10px 5px;
   margin-bottom: 20px;
   border-radius: 10px;
+  /* Small */
+  @media (max-width: 767px) {  
+    max-width: 90%;
+  }
 `
 
 export const InputSubmit = styled(Input)`
@@ -132,6 +137,10 @@ export const InputSubmit = styled(Input)`
   background-color: #d31336;
   color: #fff;
   border: none;
+  /* Small */
+  @media (max-width: 767px) {  
+    max-width: 90%;
+  }
 `
 
 export const Textarea = styled.textarea`
@@ -139,6 +148,10 @@ export const Textarea = styled.textarea`
   padding: 10px 5px;
   margin-bottom: 40px;
   border-radius: 10px;
+  /* Small */
+  @media (max-width: 767px) {  
+    max-width: 90%;
+  }
 `
 
 
