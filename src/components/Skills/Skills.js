@@ -15,6 +15,7 @@ const Skills = () => {
                   <Skill class="skill"> Bootstrap </Skill>
                   <Skill class="skill"> React </Skill>
                   <Skill class="skill"> Redux </Skill>
+                  <Skill class="skill"> NEXT </Skill>
                   <Skill class="skill"> Wordpress </Skill>
                   <Skill class="skill"> Jquery </Skill>
                   <Skill class="skill"> SASS </Skill>
