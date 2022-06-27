@@ -12,7 +12,7 @@ const Navbar = () => {
             <ContentLi ><ContentSpan><Link to='/' className='link' ><i className="fa-solid fa-house"></i></Link></ContentSpan></ContentLi>
             <ContentLi ><ContentSpan><Link to='/about' className='link' ><i className="fa-solid fa-user"></i></Link></ContentSpan></ContentLi>
             <ContentLi ><ContentSpan><Link to='/projects' className='link' ><i className="fa-solid fa-code"></i></Link></ContentSpan></ContentLi>
-            <ContentLi ><ContentSpan><Link to='/certificate' className='link' ><i className="fa-solid fa-certificate"></i></Link></ContentSpan></ContentLi>
+            <ContentLi ><ContentSpan><Link to='/certificate' className='link' ><i class="fa-solid fa-user-graduate"></i></Link></ContentSpan></ContentLi>
             <ContentLi ><ContentSpan><Link to='/contact' className='link' ><i className="fa-solid fa-phone"></i></Link></ContentSpan></ContentLi>
           </ContentUl>
         </Content>
