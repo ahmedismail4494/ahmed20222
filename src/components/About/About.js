@@ -1,6 +1,7 @@
 import React from 'react';
 import Skills from "../Skills/Skills";
 
+
 import {AboutSection, Title, TitleSpan, Personal, Part, Title3, PartP, PartSpan } from "./style.js";
 
 const About = () => {

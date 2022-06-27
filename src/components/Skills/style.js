@@ -30,7 +30,7 @@ export const SkillsUl = styled.ul`
   list-style: none;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  gap: 40px;
+  gap: 30px;
 `
 
 export const Skill = styled.li`
@@ -39,7 +39,7 @@ export const Skill = styled.li`
   height: 80px;
   line-height: 80px;
   display: inline-block;
-  font-size: 30px;
+  font-size: 29px;
   font-weight: bold;
   color: #fff;
   background-color: #d31336;

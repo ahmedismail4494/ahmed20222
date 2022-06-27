@@ -19,9 +19,9 @@ const Home = () => {
             </ImageBox>
             <Info>
               I Create a Responsive Web Design From A to Z It's Responsive On All Screens By Using Many Of The Technology And Program Languages Like
-              (HTNL, CSS, JS, React, Redux) and it's creative and modern shape.
+              (HTNL, CSS, JS, React, Redux) and it's creative and in modern shape.
                 <br /> <br />
-              I'm working on myself all the time to get the latest technology for
+              I'm working on myself all the time to get the latest technologies for
               creating the best designs and I am willing to be a full-stack web developer.
             </Info>
           </Content>

@@ -12,14 +12,16 @@ const Skills = () => {
                   <Skill class="skill"> HTML </Skill>
                   <Skill class="skill"> CSS </Skill>
                   <Skill class="skill"> Javascript </Skill>
-                  <Skill class="skill"> Bootstrap </Skill>
-                  <Skill class="skill"> React </Skill>
-                  <Skill class="skill"> Redux </Skill>
-                  <Skill class="skill"> NEXT </Skill>
-                  <Skill class="skill"> Wordpress </Skill>
+                  <Skill class="skill"> TypeScript </Skill>
                   <Skill class="skill"> Jquery </Skill>
+                  <Skill class="skill"> Json </Skill>
+                  <Skill class="skill"> Bootstrap </Skill>
                   <Skill class="skill"> SASS </Skill>
-                  <Skill class="skill"> github </Skill>
+                  <Skill class="skill"> React.js </Skill>
+                  <Skill class="skill"> Redux </Skill>
+                  <Skill class="skill"> NEXT.js</Skill>
+                  <Skill class="skill"> styled-components </Skill>
+                  <Skill class="skill"> Git/Github </Skill>
               </SkillsUl>
           </div>
         </SkillsSection>

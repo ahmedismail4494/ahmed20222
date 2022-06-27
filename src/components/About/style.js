@@ -6,7 +6,7 @@ export const AboutSection = styled.div`
   height: 600px;
   padding-top: 50px;
   padding-bottom: 100px;
-  background: url('images/big\ \(63\).jpg');
+  background: url('images/big63.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -20,7 +20,7 @@ export const Title = styled.h2`
   width: fit-content;
   text-align: center;
   display: block;
-  color: #252131;
+  color: #fff;
   font-weight: bold;
   font-size: 50px;
   margin-bottom: 20px;
@@ -41,6 +41,7 @@ export const Personal = styled.div`
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
   gap: 40px;
+  
 
   @media (max-width: 767px) {
     grid-template-columns: repeat(auto-fill, minmax(370px, 1fr));
@@ -70,6 +71,7 @@ export const Part = styled.div`
 export const Title3 = styled.h3`
   font-weight: bold;
   padding: 20px 0px ;
+  color: #fff;
 `
 
 export const PartP = styled.p`
