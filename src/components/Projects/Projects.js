@@ -5,7 +5,7 @@ import {ProjectSection, Title2, IconBox, Icon, Content, Card, ImageBox, Image, B
 
 import ZadImage from './WebSite/ZAD.png';
 import Elzero from './WebSite/Elzero.png';
-import CRUD_JS from './WebSite/CRUD_JS.png';
+import Store from './WebSite/store.png';
 import KASPER from './WebSite/KASPER.png';
 import LEON from './WebSite/LEON.png';
 import AhmedIsmail from './WebSite/AhmedIsmail.png';
@@ -26,6 +26,18 @@ const Projects = () => {
           </IconBox>
 
           <Content>
+
+            <Card>
+              <ImageBox>
+                <Image src={Store} alt='' />
+              </ImageBox>
+              <Buttons>
+                <Holder>
+                  <Anchor href='https://github.com/ahmedismail4494/store'>Source</Anchor>
+                  <Anchor href='https://ahmedismail4494.github.io/store/'>Live</Anchor>
+                </Holder>
+              </Buttons>
+            </Card>
 
             <Card>
               <ImageBox>
@@ -89,17 +101,7 @@ const Projects = () => {
               </Buttons>
             </Card>
 
-            <Card>
-              <ImageBox>
-                <Image src={CRUD_JS} alt='' />
-              </ImageBox>
-              <Buttons>
-                <Holder>
-                  <Anchor href='https://github.com/ahmedismail4494/CRUD_JS'>Source</Anchor>
-                  <Anchor href='https://ahmedismail4494.github.io/CRUD_JS/'>Live</Anchor>
-                </Holder>
-              </Buttons>
-            </Card>
+            
 
 
           </Content>
