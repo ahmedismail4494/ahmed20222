@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/ahmed20222/static/css/main.a19c0366.css",
-    "main.js": "/ahmed20222/static/js/main.137222e5.js",
+    "main.js": "/ahmed20222/static/js/main.7c4b615a.js",
     "static/js/787.63192495.chunk.js": "/ahmed20222/static/js/787.63192495.chunk.js",
     "static/media/KASPER.png": "/ahmed20222/static/media/KASPER.bb8fc73ed237fccd2dab.png",
     "static/media/ZAD.png": "/ahmed20222/static/media/ZAD.f3e9ecf22a8afdfc811c.png",
     "static/media/Elzero.png": "/ahmed20222/static/media/Elzero.afb1a1205a27d406a46d.png",
+    "static/media/store.png": "/ahmed20222/static/media/store.a9ca2a0ffc5c16a47002.png",
     "static/media/AhmedIsmail.png": "/ahmed20222/static/media/AhmedIsmail.9787db4af732355d4b44.png",
     "static/media/LEON.png": "/ahmed20222/static/media/LEON.731270032202a6aef807.png",
     "static/media/8_udemy- fullstack web developer.jpg": "/ahmed20222/static/media/8_udemy- fullstack web developer.23696babbb81afb754ca.jpg",
@@ -17,14 +18,13 @@
     "static/media/7_SQL_certificate.jpg": "/ahmed20222/static/media/7_SQL_certificate.c266f25c3c278d1f8c3a.jpg",
     "static/media/6_PHP_certificate.jpg": "/ahmed20222/static/media/6_PHP_certificate.fd5cd11672b7b839ccba.jpg",
     "static/media/5_react_certificate.jpg": "/ahmed20222/static/media/5_react_certificate.97506d54db5abf8fbc7c.jpg",
-    "static/media/CRUD_JS.png": "/ahmed20222/static/media/CRUD_JS.329052ece70a1ab359d3.png",
     "index.html": "/ahmed20222/index.html",
     "main.a19c0366.css.map": "/ahmed20222/static/css/main.a19c0366.css.map",
-    "main.137222e5.js.map": "/ahmed20222/static/js/main.137222e5.js.map",
+    "main.7c4b615a.js.map": "/ahmed20222/static/js/main.7c4b615a.js.map",
     "787.63192495.chunk.js.map": "/ahmed20222/static/js/787.63192495.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a19c0366.css",
-    "static/js/main.137222e5.js"
+    "static/js/main.7c4b615a.js"
   ]
 }
