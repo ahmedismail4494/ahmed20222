@@ -3,12 +3,13 @@ import {ProjectSection, Title2, IconBox, Icon, Content, Card, ImageBox, Image, B
         Anchor } from "./style.js";
 
 
+import Store from './WebSite/store.png';
+import Basem from './WebSite/basem.png';
 import ZadImage from './WebSite/ZAD.png';
 import Elzero from './WebSite/Elzero.png';
-import Store from './WebSite/store.png';
 import KASPER from './WebSite/KASPER.png';
 import LEON from './WebSite/LEON.png';
-import AhmedIsmail from './WebSite/AhmedIsmail.png';
+
 
 
 const Projects = () => {
@@ -26,6 +27,18 @@ const Projects = () => {
           </IconBox>
 
           <Content>
+
+            <Card>
+              <ImageBox>
+                <Image src={Basem} alt='' />
+              </ImageBox>
+              <Buttons>
+                <Holder>
+                  <Anchor href='https://github.com/ahmedismail4494/Basem'>Source</Anchor>
+                  <Anchor href='https://basem.vercel.app/'>Live</Anchor>
+                </Holder>
+              </Buttons>
+            </Card>
 
             <Card>
               <ImageBox>
@@ -73,18 +86,6 @@ const Projects = () => {
                 <Holder>
                   <Anchor href='https://github.com/ahmedismail4494/KASPER_HTML_CSS'>Source</Anchor>
                   <Anchor href='https://ahmedismail4494.github.io/KASPER_HTML_CSS/'>Live</Anchor>
-                </Holder>
-              </Buttons>
-            </Card>
-
-            <Card>
-              <ImageBox>
-                <Image src={AhmedIsmail} alt='' />
-              </ImageBox>
-              <Buttons>
-                <Holder>
-                  <Anchor href='https://github.com/ahmedismail4494/AhmedIsmail'>Source</Anchor>
-                  <Anchor href='https://ahmedismail4494.github.io/AhmedIsmail/'>Live</Anchor>
                 </Holder>
               </Buttons>
             </Card>
